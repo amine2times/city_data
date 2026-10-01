@@ -1,2 +1,1 @@
-Adding text to the README
-Adding more text to the README
+This is the city data. This is also the README file.
